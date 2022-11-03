@@ -1,3 +1,5 @@
+THIS DOCUMENTATION WAS FULLY PROVIDED BY UNIVERSITY OF OREGON CIS 211 CURRICULUM:
+
 # The Duck Machine
 
 The Duck Machine is a virtual computer architecture.  It is much
